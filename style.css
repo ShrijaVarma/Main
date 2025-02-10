@@ -41,6 +41,7 @@
 }
 .nav-search{
     display: flex;
+    justify-content: space-evenly;
     background-color:pink;
     width: 620px;
     height: 40px;
@@ -49,4 +50,8 @@
 .search-select{
     background-color: #f3f3f3;
     width:5px;
+    text-align: center;
+    border-top-left-radius:4px;
+    border-bottom-left-radius:4px;
+    border: none;
 }
